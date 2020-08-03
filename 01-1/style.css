@@ -1,0 +1,32 @@
+* {
+    margin: 3;
+    text-align: center;
+}
+
+body  {
+    height: 100%;
+}
+
+header {
+    background-color: pink;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+.main-content {
+    background-color: blanchedalmond;
+    height: 350px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+footer {
+    background-color: plum;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}

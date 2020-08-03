@@ -1,0 +1,45 @@
+* {
+    margin: 3;
+}
+
+body {
+    height: 100%;
+    display: flex;
+}
+
+.main-column {
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+}
+
+aside {
+    background-color: violet;
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+}
+
+header {
+    background-color: pink;
+    height: 200px;
+    display: flex;
+}
+
+nav {
+    background-color: rebeccapurple;
+    height: 50px;
+}
+
+.main-content {
+    background-color: blanchedalmond;
+    height: 300px;
+    display: flex;
+}
+
+footer {
+    background-color: plum;
+    height: 200px;
+    display: flex;
+}
+

@@ -1,0 +1,40 @@
+* {
+    margin: 3;
+}
+
+body {
+    height: 100%;
+}
+
+header {
+    background-color: pink;
+    height: 150px;
+}
+
+nav {
+    background-color: rebeccapurple;
+    height: 50px;
+}
+
+.main-column {
+    height: 400px;
+    display: flex;
+}
+
+aside {
+    background-color: violet;
+    width: 20%;
+    display: flex;
+}
+
+.main-content {
+    background-color: blanchedalmond;
+    display: flex;
+    width: 60%;
+}
+
+footer {
+    background-color: plum;
+    height: 150px;
+}
+

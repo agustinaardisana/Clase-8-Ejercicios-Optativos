@@ -1,0 +1,43 @@
+* {
+    margin: 3;
+}
+
+body  {
+    height: 100%;
+}
+
+header {
+    background-color: pink;
+    height: 200px;
+    display: flex;
+}
+
+nav {
+    background-color: purple;
+    display: flex;
+    height: 50px;
+}
+
+.content {
+    display: flex;
+    width: 100%;
+}
+
+aside {
+    background-color: lavender;
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+}
+
+.main-content {
+    background-color: blanchedalmond;
+    height: 300px;
+    display: flex;
+}
+
+footer {
+    background-color: plum;
+    height: 200px;
+    display: flex;
+}
